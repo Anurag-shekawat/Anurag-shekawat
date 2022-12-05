@@ -44,7 +44,7 @@
   
   <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-shekawat&theme=radical&langs_count=8"  width="24%"/>
-   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Anurag-shekawat&theme=gruvbox&hide_border=true&area=true"  width="70%"/>
+<!--    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Anurag-shekawat&theme=gruvbox&hide_border=true&area=true"  width="70%"/> -->
 </p>
  
 <br>
